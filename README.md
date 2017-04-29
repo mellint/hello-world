@@ -1,2 +1,4 @@
 # hello-world
-Displays the text "Hello World!"
+About myself
+
+Hello world, my name is mellint, I am an aspiring game programmer. 
